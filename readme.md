@@ -9,7 +9,8 @@
 4. Was wäre ein geeignetes Projekt für diese LP5?
 
 Meine Noten sind immernoch gleich wie in der letzten Lernperiode. Ich war in allen Modulen gut.
-
+Mein VBV von der letzten Periode war das ich meine Arbeitspakete besser aufteile. Ich hatte das Problem das ich Arbeitspakete oft nicht geschafft habe, darum werde ich kürzere Arbeitspakete machen.
+Ich will eine Website mithilfe von HTML und CSS erstellen
 
 ## 23.4.2024
 
