@@ -8,7 +8,8 @@
 2. Was hatten Sie sich am Ende von LP4 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
 4. Was wäre ein geeignetes Projekt für diese LP5?
 
-Meine Noten sind immernoch gleich wie in der letzten Lernperiode.
+Meine Noten sind immernoch gleich wie in der letzten Lernperiode. Ich war in allen Modulen gut.
+
 
 ## 23.4.2024
 
