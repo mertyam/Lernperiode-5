@@ -14,13 +14,14 @@ Ich will eine Website mithilfe von HTML und CSS erstellen
 
 ## 23.4.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+Ich habe mich heute mehr über HTML und CSS informiert und habe angefangen eine "Porsche" Seite zu programmieren. Ich hatte aber Probleme die einzelnen Titel und Texter so anzuordnen wie ich wollte.
 
 ## 30.4.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] 106_2416
+- [ ] 106_2417
+- [ ] Alle Texte anordnen
+- [ ] Bilder einfügen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
