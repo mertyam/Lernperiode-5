@@ -18,10 +18,10 @@ Ich habe mich heute mehr über HTML und CSS informiert und habe angefangen eine 
 
 ## 30.4.2024
 
-- [ ] 106_2416
-- [ ] 106_2417
-- [ ] Alle Texte anordnen
-- [ ] Bilder einfügen
+- [x] 106_2416
+- [x] 106_2417
+- [x] Alle Texte anordnen
+- [x] Bilder einfügen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
