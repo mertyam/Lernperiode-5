@@ -23,6 +23,11 @@ Ich habe mich heute mehr über HTML und CSS informiert und habe angefangen eine 
 - [x] Alle Texte anordnen
 - [x] Bilder einfügen
 
-✍️ Heute habe ich... (50-100 Wörter)
+Ich habe heute die Modulaufgaben erledigt. Ich habe alle meine Texte angeordnet und ein Bild eingefügt. Ich will das Bild jetzt als Hintergrund nehmen und die Texte in ein accordion packen.
 
-☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
+## 7.5.2024
+
+- [ ] accordion machen in html
+- [ ] dropdown menü versuchen
+- [ ] bild als hintergrund nehmen
+- [ ] fade-in effekt für texte
