@@ -18,16 +18,25 @@ Ich habe mich heute mehr über HTML und CSS informiert und habe angefangen eine 
 
 ## 30.4.2024
 
-- [x] 106_2416
-- [x] 106_2417
+- [x] 106_2412
+- [x] 106_2413
 - [x] Alle Texte anordnen
 - [x] Bilder einfügen
 
-Ich habe heute die Modulaufgaben erledigt. Ich habe alle meine Texte angeordnet und ein Bild eingefügt. Ich will das Bild jetzt als Hintergrund nehmen und die Texte in ein accordion packen.
+Ich habe heute die Modulaufgaben erledigt. Ich habe alle meine Texte angeordnet und ein Bild eingefügt. Ich will das Bild jetzt als Hintergrund nehmen und die Texte in ein accordion packen. Ich werde nächstes mal diese Sachen machen. ()
 
 ## 7.5.2024
 
-- [ ] accordion machen in html
-- [ ] 106_16
-- [ ] bild als hintergrund nehmen
-- [ ] fade-in effekt für texte
+- [x] accordion machen in html
+- [x] 106_16/15
+- [x] bild als hintergrund nehmen
+- [x] fade-in effekt für texte
+
+Die Arbeitspakete waren klar strukturiert und leicht umsetzbar. Das Erstellen eines Accordions in HTML war eine gute Übung, ebenso wie die Implementierung des Hintergrundbildes. Ich habe länger an den Aufträgen 106_15/16 gearbeitet. Ich musste mich nicht so viel über den Fade-In Effekt informieren da er sehr simpel ist. Das nächste mal will ich probieren den Code ohne JavaScript umzusetzten. (59)
+
+## 14.5.2024
+
+- [ ] accordions auf css umschreiben
+- [ ] meine Schriftarten/Grössen anpassen
+- [ ] Dropdownmenue
+- [ ] hovereffekt beim dropdownmenue
