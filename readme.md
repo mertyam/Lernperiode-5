@@ -28,6 +28,6 @@ Ich habe heute die Modulaufgaben erledigt. Ich habe alle meine Texte angeordnet 
 ## 7.5.2024
 
 - [ ] accordion machen in html
-- [ ] dropdown menü versuchen
+- [ ] 106_16
 - [ ] bild als hintergrund nehmen
 - [ ] fade-in effekt für texte
