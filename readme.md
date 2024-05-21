@@ -36,6 +36,15 @@ Die Arbeitspakete waren klar strukturiert und leicht umsetzbar. Das Erstellen ei
 
 ## 14.5.2024
 
+Ich hatte diese Lektionen leider Probleme mit meinem Laptop. Er ging nicht an und hat nicht geladen. Darum konnte ich nicht an meinen Projekt arbeiten, weil diese Lokal gespeichert war. Das einzige was ich machen konnte war das ich mit Google mich über HTML und CSS informieren konnte.
+
+
+## 21.5.2024
+
+- [ ] mich über HTML Abteilungen informieren und dann diese erstellen
+- [ ] Porsche Schriftart importieren
+- [ ] Bild als Hintergrund nehmen
+- [ ] Texte erstellen
 - [ ] accordions auf css umschreiben
 - [ ] meine Schriftarten/Grössen anpassen
 - [ ] Dropdownmenue
