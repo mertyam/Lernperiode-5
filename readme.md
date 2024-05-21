@@ -41,11 +41,9 @@ Ich hatte diese Lektionen leider Probleme mit meinem Laptop. Er ging nicht an un
 
 ## 21.5.2024
 
-- [ ] mich über HTML Abteilungen informieren und dann diese erstellen
-- [ ] Porsche Schriftart importieren
-- [ ] Bild als Hintergrund nehmen
-- [ ] Texte erstellen
-- [ ] accordions auf css umschreiben
-- [ ] meine Schriftarten/Grössen anpassen
-- [ ] Dropdownmenue
-- [ ] hovereffekt beim dropdownmenue
+- [x] mich über HTML Abteilungen informieren und dann diese erstellen
+- [x] Porsche Schriftart importieren
+- [x] Bild als Hintergrund nehmen
+- [x] Texte erstellen
+
+Ich musste leider ein neues Projekt anfangen da ich momentan kein Zugriff auf mein altes habe. genau so musste ich Visual Studio Code herunterladen und die dazugehörigen Extensions herunterladen. Ich habe jetzt zu den meisten Abteilen etwas erstellt und die dazugehörigen Texte hineingefügt. Ich habe ein Bild als Hintergrund genommen und meine Porsche schriftart importiert, was dieses mal ein bisschen komplizierter war als letztes mal. 
