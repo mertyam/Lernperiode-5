@@ -47,3 +47,17 @@ Ich hatte diese Lektionen leider Probleme mit meinem Laptop. Er ging nicht an un
 - [x] Texte erstellen
 
 Ich musste leider ein neues Projekt anfangen da ich momentan kein Zugriff auf mein altes habe. genau so musste ich Visual Studio Code herunterladen und die dazugehörigen Extensions herunterladen. Ich habe jetzt zu den meisten Abteilen etwas erstellt und die dazugehörigen Texte hineingefügt. Ich habe ein Bild als Hintergrund genommen und meine Porsche schriftart importiert, was dieses mal ein bisschen komplizierter war als letztes mal. 
+
+## 28.05.24
+
+Ich hatte heute eine Nachprüfung und musste VSC neu herunterladen. Ich werde das nächste mal alle letzten Schritte wiederholen, weil ich ein neues Gerät nutzen muss.
+
+
+## 04.06.24
+
+- [ ] Abteile erstellen mit Text
+- [ ] Porsche Schriftart importieren
+- [ ] Bild als Hintergrund nehmen
+- [ ] Texte erstellen
+
+
