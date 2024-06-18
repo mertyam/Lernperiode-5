@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ferrari</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="contact.css">
+    
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="logo">
+                <a href="/index.html"><img src="logo2.png" alt="Logo"></a>
+            </div>
+            <nav>
+                <ul>
+                    <li class="dropdown">
+                        <a href="javascript:void(0)" class="dropbtn">Services<i class="fa fa-caret-down"></i></a>
+                        <div class="dropdown-content">
+                            <a href="/tuneycar.html">Tune Your Car</a>
+                            <a href="">Pre-Tuned Cars</a>
+                            <a href="">Merch</a>
+                        </div>
+                    </li>
+                    <li><a href="#history">History</a></li>
+                    <li><a href="#news">News</a></li>
+                    <li><a href="/contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main id="main">
+        <h4 id="contact">Contact</h4>
+        <form action="/submit" method="post">
+            <label for="email">E-Mail:</label><br>
+            <input type="email" id="email" name="email" required><br><br>
+            <label for="remarks">Request:</label><br>
+            <textarea id="remarks" name="remarks" rows="8" cols="50"></textarea><br><br>
+            <input type="submit" value="Send">
+        </form>
+    </main>
+
+    <footer>
+        <p>Yamali Mert</p> 
+    </footer>
+</body>
+</html>
