@@ -55,9 +55,13 @@ Ich hatte heute eine Nachprüfung und musste VSC neu herunterladen. Ich werde da
 
 ## 04.06.24
 
-- [ ] Abteile erstellen mit Text
-- [ ] Porsche Schriftart importieren
+- [x] Abteile erstellen mit Text
+- [x] Porsche Schriftart importieren
 - [ ] Bild als Hintergrund nehmen
 - [ ] Texte erstellen
 
+## 18.06.2024
 
+- [ ] 
+- [ ] Bild als Hintergrund nehmen
+- [ ] Texte erstellen
