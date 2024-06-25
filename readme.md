@@ -62,11 +62,14 @@ Ich hatte heute eine Nachprüfung und musste VSC neu herunterladen. Ich werde da
 
 ## 18.06.2024
 
-- [ ] Bild als Hintergrund nehmen
-- [ ] Texte erstellen
+- [x] Bild als Hintergrund nehmen
+- [x] Texte erstellen
 
 
 ## 25.06.2024
 
-- [ ] Alle Seiten erstellen und Basis  einfügen
-- [ ] Logo zum Homebutton machen
+- [x] Alle Seiten erstellen und Basis  einfügen
+- [x] Logo zum Homebutton machen
+
+## Fertiges Projekt
+
